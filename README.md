@@ -45,7 +45,7 @@ The goal of this project was to explore the relationships and patterns within th
 
 1. **Clone the repository**:
    ```bash
-   git clone https://github.com/yourusername/Exploratory-Data-Analysis-Insurance-Policies.git
+   git clone https://github.com/dharmendradiwaker/EDA-Insurance-Policies-By-Tableau.git
    ```
 
 2. **Open the Tableau file**:
